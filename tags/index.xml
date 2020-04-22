@@ -6,10 +6,73 @@
     <description>Recent content in Tags on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Nov 2019 10:53:54 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 20:19:02 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>excel</title>
+      <link>http://localhost:1313/tags/excel/</link>
+      <pubDate>Sat, 11 Apr 2020 20:19:02 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ppt</title>
+      <link>http://localhost:1313/tags/ppt/</link>
+      <pubDate>Sat, 11 Apr 2020 20:19:02 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
+      <pubDate>Thu, 19 Dec 2019 16:31:45 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>区块链</title>
+      <link>http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</link>
+      <pubDate>Wed, 18 Dec 2019 18:04:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能合约</title>
+      <link>http://localhost:1313/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</link>
+      <pubDate>Wed, 18 Dec 2019 18:04:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MapReduce</title>
+      <link>http://localhost:1313/tags/mapreduce/</link>
+      <pubDate>Tue, 17 Dec 2019 21:28:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/mapreduce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>http://localhost:1313/tags/spark/</link>
+      <pubDate>Tue, 17 Dec 2019 21:28:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/spark/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Mining</title>
@@ -17,6 +80,33 @@
       <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Echarts</title>
+      <link>http://localhost:1313/tags/echarts/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/echarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据可视化</title>
+      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
       <description></description>
     </item>
     
@@ -84,15 +174,6 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Thu, 15 Aug 2019 23:50:41 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JavaScript</title>
       <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
@@ -116,24 +197,6 @@
       <pubDate>Sun, 11 Aug 2019 11:40:13 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/ielts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>区块链</title>
-      <link>http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</link>
-      <pubDate>Thu, 01 Aug 2019 16:13:50 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>智能合约</title>
-      <link>http://localhost:1313/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</link>
-      <pubDate>Thu, 01 Aug 2019 16:13:50 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</guid>
       <description></description>
     </item>
     
