@@ -113,13 +113,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/techstack/how-to-deploy-v2ray/</loc>
-    <lastmod>2020-02-20T11:30:44+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/sql/</loc>
     <lastmod>2019-12-19T16:31:45+08:00</lastmod>
     <priority>0</priority>
@@ -203,25 +196,6 @@
   <url>
     <loc>http://localhost:1313/post/techstack/how-to-get-google/</loc>
     <lastmod>2019-11-20T10:53:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2019-11-15T23:50:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/javascripts/</loc>
-    <lastmod>2019-11-15T23:50:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/techstack/echarts/</loc>
-    <lastmod>2019-11-15T23:50:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

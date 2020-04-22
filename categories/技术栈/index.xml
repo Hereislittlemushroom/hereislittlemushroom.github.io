@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>🔥如何在Hugo静态博客中嵌入echarts图表</title>
-      <link>http://localhost:1313/post/techstack/echarts/</link>
-      <pubDate>Fri, 15 Nov 2019 23:50:41 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/techstack/echarts/</guid>
-      <description>&lt;p&gt;数据可视化嵌入实验&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🔥基于Python的CCF模拟題解析（持续更新）</title>
       <link>http://localhost:1313/post/techstack/ccf_set/</link>
       <pubDate>Thu, 15 Aug 2019 23:50:41 +0800</pubDate>
