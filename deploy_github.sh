@@ -1,6 +1,6 @@
-cd /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/public
+# cd /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/public
 # 删除该目录下所有文件与目录
-rm -rf *
+# rm -rf *
 
 # cd /Users/fangzeqiang/Github/Hereislittlemushroom.github.io
 # 删除这个目录下所有文件与目录
@@ -11,9 +11,9 @@ rm -rf *
 # hugo -t even 
 
 # 进入book render后存放index.html页面
-cd /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/tutorial_bookdown/
+# cd /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/tutorial_bookdown/
 # 复制/_book/下所有的文件与目录到/public/下
-cp -r /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/tutorial_bookdown/_book/ /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/public/
+# cp -r /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/tutorial_bookdown/_book/ /Users/fangzeqiang/Github/Hereislittlemushroom.github.io/public/
 
 # 将public目录下的文件和目录复制到新目录下
 # cp -r /Users/fangzeqiang/Coding/fzqblog/public/ /Users/fangzeqiang/Github/Hereislittlemushroom.github.io
