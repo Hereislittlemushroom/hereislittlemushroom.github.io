@@ -21,20 +21,22 @@
     </item>
     
     <item>
-      <title>各种IDE快捷键CheatSheet</title>
+      <title>🔥关于各种IDE快捷键令人头疼不得不特地写一篇博客方便随时取用一事（持续更新）</title>
       <link>http://localhost:1313/post/notes/shortcut_for_all/</link>
       <pubDate>Fri, 25 Dec 2020 12:22:25 +0800</pubDate>
       
       <guid>http://localhost:1313/post/notes/shortcut_for_all/</guid>
-      <description></description>
+      <description>&lt;p&gt;These troublesome shortcode operation is based on the MacOS systems :-). If you are Windows users, you can try to replace &lt;code&gt;CMD&lt;/code&gt; with &lt;code&gt;CTRL&lt;/code&gt; to success run these shortcuts.&lt;/p&gt;
+
+&lt;p&gt;人的记忆终究是有极限的呀！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>结合JavaScript直接抓取网站内容</title>
-      <link>http://localhost:1313/post/ilets/hungry-english-getinfo/</link>
+      <link>http://localhost:1313/post/techstack/hungry-english-getinfo/</link>
       <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ilets/hungry-english-getinfo/</guid>
+      <guid>http://localhost:1313/post/techstack/hungry-english-getinfo/</guid>
       <description>&lt;p&gt;该方法用于解决“爬虫操作繁琐与手动复制太累”的情况&lt;/p&gt;</description>
     </item>
     
