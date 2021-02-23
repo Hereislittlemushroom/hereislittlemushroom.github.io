@@ -6,7 +6,7 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Jan 2021 23:17:43 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 16:18:20 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,11 +22,20 @@
     
     <item>
       <title>简历</title>
+      <link>http://localhost:1313/cv-en/</link>
+      <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/cv-en/</guid>
+      <description>Resume Zeqiang Fang Contact Me Email: zeqiang.fang@foxmail.com; Blog: zeqiang.fun; Github: hereislittlemushroom Education University College London(UCL) Sep.2020 - Sep.2021 Centre of Advanced Spatial Analysis Msc. Spatial Data Science &amp;amp; Visualization University of California, Berkeley July.2018 - Aug.2018 Haas School of Business Investments (Summer Session) Lecturer - Ethan Nanjing University of Finance &amp;amp; Economics Sep.2016 - July.2020 College of Information Engineering B.Eng. Software Engineering (full-time) Surpervisor - Shuqing Li Nanjing University of</description>
+    </item>
+    
+    <item>
+      <title>简历</title>
       <link>http://localhost:1313/cv/</link>
       <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
       
       <guid>http://localhost:1313/cv/</guid>
-      <description>简历 方泽强 联系方式 Email: zeqiang.fang@foxmail.com; 个人主页: zeqiang.fun; 现居福建厦门 教育经历 2020-2021 伦敦大学学院 /CASA /空间数据科学与可视化 2016-2020 南京财经大学（全日制本科) /信息工程学院 /计算</description>
+      <description>简历 方泽强 联系方式 Email: zeqiang.fang@foxmail.com; 个人主页: zeqiang.fun; 现居福建厦门 ; 英文简历 教育经历 2020-2021 伦敦大学学院 /CASA /空间数据科学与可视化 2016-2020 南京财经大学（全日制本科) /信息工程</description>
     </item>
     
     <item>
@@ -35,7 +44,7 @@
       <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
       
       <guid>http://localhost:1313/friendlink/</guid>
-      <description>大学同窗 不羁之欢 托马斯黄 奚宇星 赵晓雪 刘永杰 卓B 影哥 硕士同窗 周正梓 #城市分析 大佬捕捉器 Xieyi Hui #统计 #UseR 于淼 #数据科学 Alili #前端 Nathan Yau #可视化 麒桦的摄影</description>
+      <description>大学同窗 不羁之欢 #前端大佬 托马斯黄 #老Java 奚宇星 赵晓雪 #Java 刘永杰 孙卓 张影 #信息学 硕士同窗 周正梓 #城市分析 #UCL 杨家烨 #慕尼黑工业TUM 大佬捕捉</description>
     </item>
     
     <item>
@@ -63,6 +72,15 @@
       
       <guid>http://localhost:1313/post/techstack/mdcheatsheet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Understanding From &#39;7 Habits of Highly Effective People&#39;</title>
+      <link>http://localhost:1313/post/personal/collect_insight/</link>
+      <pubDate>Sun, 14 Feb 2021 16:18:20 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/personal/collect_insight/</guid>
+      <description>&lt;p&gt;After reading 7 Habits of Highly Effective People, I construct a personal insight to understand this book. Combining other insights from &lt;a href=&#34;https://www.bilibili.com/video/BV15J411E7iw?from=search&amp;amp;seid=5112755811130855766&#34;&gt;Gloria Gao&lt;/a&gt;, I rewrote the notes.&lt;/p&gt;</description>
     </item>
     
     <item>

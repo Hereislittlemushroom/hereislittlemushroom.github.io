@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Jan 2021 23:17:43 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 16:18:20 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,15 @@
       
       <guid>http://localhost:1313/post/techstack/mdcheatsheet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Understanding From &#39;7 Habits of Highly Effective People&#39;</title>
+      <link>http://localhost:1313/post/personal/collect_insight/</link>
+      <pubDate>Sun, 14 Feb 2021 16:18:20 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/personal/collect_insight/</guid>
+      <description>&lt;p&gt;After reading 7 Habits of Highly Effective People, I construct a personal insight to understand this book. Combining other insights from &lt;a href=&#34;https://www.bilibili.com/video/BV15J411E7iw?from=search&amp;amp;seid=5112755811130855766&#34;&gt;Gloria Gao&lt;/a&gt;, I rewrote the notes.&lt;/p&gt;</description>
     </item>
     
     <item>

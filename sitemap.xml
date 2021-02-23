@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/cv-en/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/cv/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -45,25 +52,44 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2021-01-03T23:17:43+08:00</lastmod>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/insight/</loc>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/personal/collect_insight/</loc>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2021-01-03T23:17:43+08:00</lastmod>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2021-01-03T23:17:43+08:00</lastmod>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2021-01-03T23:17:43+08:00</lastmod>
+    <lastmod>2021-02-14T16:18:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,12 +98,6 @@
     <lastmod>2021-01-03T23:17:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-12-25T12:22:25+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
