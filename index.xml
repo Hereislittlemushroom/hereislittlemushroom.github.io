@@ -22,19 +22,10 @@
     
     <item>
       <title>简历</title>
-      <link>http://localhost:1313/cv-en/</link>
+      <link>http://localhost:1313/cv-cn/</link>
       <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
       
-      <guid>http://localhost:1313/cv-en/</guid>
-      <description>Resume Zeqiang Fang Contact Me Email: zeqiang.fang@foxmail.com; Blog: zeqiang.fun; Github: hereislittlemushroom Education University College London(UCL) Sep.2020 - Sep.2021 Centre of Advanced Spatial Analysis Msc. Spatial Data Science &amp;amp; Visualization University of California, Berkeley July.2018 - Aug.2018 Haas School of Business Investments (Summer Session) Lecturer - Ethan Nanjing University of Finance &amp;amp; Economics Sep.2016 - July.2020 College of Information Engineering B.Eng. Software Engineering (full-time) Surpervisor - Shuqing Li Nanjing University of</description>
-    </item>
-    
-    <item>
-      <title>简历</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
-      
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>http://localhost:1313/cv-cn/</guid>
       <description>简历 方泽强 联系方式 Email: zeqiang.fang@foxmail.com; 个人主页: zeqiang.fun; 现居福建厦门 ; 英文简历 教育经历 2020-2021 伦敦大学学院 /CASA /空间数据科学与可视化 2016-2020 南京财经大学（全日制本科) /信息工程</description>
     </item>
     
