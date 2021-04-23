@@ -6,7 +6,7 @@
     <description>Recent content in 技术栈 on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Dec 2020 12:22:25 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 11:37:33 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,24 @@
       
       <guid>http://localhost:1313/post/techstack/mdcheatsheet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development Group Project: Project Abeona - UK Traffic Accidents Studying</title>
+      <link>http://localhost:1313/post/techstack/project_abeona/</link>
+      <pubDate>Fri, 23 Apr 2021 11:37:33 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/techstack/project_abeona/</guid>
+      <description>&lt;p&gt;CASA17 Web Architecture - Group Report&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Individual Project: 2013 AWS Honeypot Attacks Visualisation</title>
+      <link>http://localhost:1313/post/techstack/2013_aws_visualisation/</link>
+      <pubDate>Fri, 23 Apr 2021 10:29:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/techstack/2013_aws_visualisation/</guid>
+      <description>&lt;p&gt;This is my first individual digital visualisation project about the AWS server attacks.&lt;/p&gt;</description>
     </item>
     
     <item>
