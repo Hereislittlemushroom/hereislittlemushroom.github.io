@@ -6,7 +6,7 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Apr 2021 11:37:33 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 16:56:43 +0800</lastBuildDate>
     
 	<atom:link href="https://zeqiang.fun/index.xml" rel="self" type="application/rss+xml" />
     
@@ -63,6 +63,15 @@
       
       <guid>https://zeqiang.fun/post/techstack/mdcheatsheet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Github_lfs</title>
+      <link>https://zeqiang.fun/post/techstack/github_lfs/</link>
+      <pubDate>Sun, 23 May 2021 16:56:43 +0800</pubDate>
+      
+      <guid>https://zeqiang.fun/post/techstack/github_lfs/</guid>
+      <description>&lt;p&gt;Experiencing the 10 min video presentation submission, there is an increasing demand for uploading the large file(&amp;gt;100MB) to my github. This hand-by-hand tutorial can tell you how to work with large files in remoting repositories.&lt;/p&gt;</description>
     </item>
     
     <item>
