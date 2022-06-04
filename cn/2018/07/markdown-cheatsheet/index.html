@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+        <title>Markdown Cheatsheet - Zeqiang Fang | 方泽强</title>
+
+    <meta name="referrer" content="no-referrer">
+    
+    <meta property="og:title" content="Markdown Cheatsheet - Zeqiang Fang | 方泽强">
+    <meta name="description" property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Zeqiang Fang | 方泽强">
+    <meta property="og:url" content="https://zeqiang.fun/cn/2018/07/markdown-cheatsheet/">
+
+    
+    
+    
+    
+    <meta name="author" property="article:author" content="方泽强">
+    
+    
+    
+    <meta name="date" property="article:published_time" content="2018-07-10" scheme="YYYY-MM-DD">
+    
+    
+    <meta name="date" property="article:modified_time" content="2018-07-10" scheme="YYYY-MM-DD">
+    
+
+    
+    <meta name="keywords" property="article:tag" content ="cheatsheet">
+    
+    
+    <meta name="theme-color" content="#0d0d0d">
+    
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/web/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/web/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/images/web/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="62x62" href="/images/web/favicon-62x62.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/web/favicon-192x192.png">
+    <link rel="apple-touch-icon" size="192x192" href="/images/web/icon-192x192.png">
+    <link rel="manifest" href="/manifest.json">
+        
+    
+
+    
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://zeqiang.fun/cn"
+        },
+        "name": "Markdown Cheatsheet",
+        "headline": "Markdown Cheatsheet",
+        "description" : "",
+        "genre": [
+            "技术栈"
+        ],
+        "datePublished": "2018-07-10",
+        "dateModified": "2018-07-10",
+        "wordCount": "2964",
+        "keywords": [
+            "cheatsheet"
+        ],
+        "image": [
+            
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "方泽强"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "方泽强",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://zeqiang.fun/images/web/publisher-logo.png"
+            }
+        },
+        "url": "https://zeqiang.fun/cn/2018/07/markdown-cheatsheet/"
+    }
+    </script>
+    
+
+    <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js'></script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/6.5.95/css/materialdesignicons.min.css">
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism.min.css">
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-.min.css">
+
+
+
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/light.css">
+<link rel="stylesheet" type="text/css" href="/css/dark.css" id="dark-mode-style" disabled="disabled">
+<link rel="stylesheet" type="text/css" href="/css/icons.css">
+<link rel="stylesheet" type="text/css" href="/css/print.css">
+
+  </head>
+
+  
+  <body class="cn">
+    <header class="masthead">
+      
+
+<div class="logo"></div>
+<p class="slogan">优雅永不过时</p>
+      <nav class="menu">
+  <ul>
+  
+  
+  
+    
+  
+  
+    <li><a href="/">首页</a></li>
+  
+    <li><a href="/cn/">博客</a></li>
+  
+    <li><a href="/categories/">分类</a></li>
+  
+    <li class="menu-separator"><span>&nbsp;</span></li>
+  
+    <li><a href="/cn/about/">关于</a></li>
+  
+    <li><a href="/cn/resume/">简历</a></li>
+  
+  
+
+
+<li class="menu-separator"><span>&nbsp;</span></li>
+
+<li><a href="/cn/index.xml" target="_blank" type="application/rss+xml" title="RSS feed">订阅</a></li>
+
+<li><a href="https://github.com/fang-zeqiang/fang-zeqiang.github.io/blob/master/LICENSE" target="_blank" title="Attribution-NonCommercial-ShareAlike 4.0 International">版权</a></li>
+
+
+  <li class="light-dark-mode no-border-bottom"><a id="light-dark-mode-action"><span id="light-dark-mode-icon" class="mdi mdi-weather-night"></span></a></li>
+  </ul>
+</nav>
+
+      <script src="/js/toggle-theme.js"></script>
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>Markdown Cheatsheet</h1>
+
+
+
+
+
+
+
+<h3>方泽强 / 
+2018-07-10</h3>
+
+
+
+<h3 class="post-meta">
+
+
+<strong>分类: </strong>
+<a href="/categories/%E6%8A%80%E6%9C%AF%E6%A0%88">技术栈</a>
+
+
+
+
+/
+
+
+
+
+<strong>标签: </strong>
+<span>cheatsheet</span>
+
+
+
+
+/
+
+
+<strong>字数: </strong>
+2964
+</h3>
+
+
+
+<hr>
+
+
+      </header>
+
+
+
+
+<blockquote>
+<p>Based on <a href="https://github.com/facelessuser/MarkdownPreview/blob/master/examples/test.md" rel="noreferrer" target="_blank">MarkdownPreview test.md</a>.</p>
+</blockquote>
+
+<h1 id="markdown">Markdown</h1>
+
+<h1 id="h1">H1</h1>
+
+<h2 id="h2">H2</h2>
+
+<h3 id="h3">H3</h3>
+
+<h4 id="h4">H4</h4>
+
+<h5 id="h5">H5</h5>
+
+<h6 id="h6">H6</h6>
+
+<h3 id="duplicate-header">Duplicate Header</h3>
+
+<h3 id="duplicate-header-1">Duplicate Header</h3>
+
+<pre><code>
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+### Duplicate Header
+### Duplicate Header
+
+## Paragraphs
+
+</code></pre>
+
+<p>This is a paragraph.
+I am still part of the paragraph.</p>
+
+<p>New paragraph.</p>
+
+<pre><code>
+This is a paragraph.
+I am still part of the paragraph.
+
+New paragraph.
+
+## Anchor
+
+*Define anchor by `{#section-id}`*
+
+[Something](#section-7)
+
+## Footnote
+
+This is a footnote[^1]
+
+A footnote on &quot;label&quot;[^label]
+
+The footnote for definition[^!DEF]
+
+A footnote with link[^pa]
+
+[^1]: This is a footnote
+[^label]: A footnote on &quot;label&quot;
+[^pa]: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[^!DEF]: The footnote for definition
+
+
+## Inline
+
+</code></pre>
+
+<p><code>inline block</code></p>
+
+<p><kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>del</kbd></p>
+
+<p><strong>bold 1</strong> and <strong>bold 2</strong></p>
+
+<p><em>italic 1</em>  and <em>italic 2</em></p>
+
+<p><del>strike</del></p>
+
+<p><strong><em>bold 1 and italic 1</em></strong></p>
+
+<p><strong><em>bold 2 and italic 2</em></strong></p>
+
+<p><strong><em>bold 2 and italic 1</em></strong></p>
+
+<p><strong><em>bold 1 and italic 2</em></strong></p>
+
+<p><del><em>strike italic 1</em></del> and <em><del>strike italic 2</del></em></p>
+
+<p><del><em>strike italic 2</em></del> and  <em><del>strike italic 2</del></em></p>
+
+<p><del><strong>strike bold 1</strong></del> and <strong><del>strike bold 1</del></strong></p>
+
+<p><del><strong>strike bold 2</strong></del> and <strong><del>strike bold 2</del></strong></p>
+
+<p><del><strong><em>strike italic 1 bold 1</em></strong></del> and <strong><em><del>strike italic 1 bold 1</del></em></strong></p>
+
+<p><del><strong><em>strike italic 2 bold 2</em></strong></del> and <strong><em><del>strike italic 2 bold 2</del></em></strong></p>
+
+<p><strong><del><em>strike italic 1 bold 1</em></del></strong> and *<del><strong>strike italic 1 bold 1</strong></del>*</p>
+
+<p><strong><del><em>strike italic 2 bold 2</em></del></strong> and _<del><strong>strike italic 2 bold 2</strong></del>_</p>
+
+<p><strong><del><em>strike italic 2 bold 1</em></del></strong> and <em><del><strong>strike italic 2 bold 1</strong></del></em></p>
+
+<p><strong><del><em>strike italic 1 bold 2</em></del></strong> and <em><del><strong>strike italic 1 bold 2</strong></del></em></p>
+
+<pre><code>
+`inline block`
+
+&lt;kbd&gt;ctrl&lt;/kbd&gt;+&lt;kbd&gt;alt&lt;/kbd&gt;+&lt;kbd&gt;del&lt;/kbd&gt;
+
+**bold 1** and __bold 2__
+
+*italic 1*  and _italic 2_
+
+~~strike~~
+
+
+***bold 1 and italic 1***
+
+___bold 2 and italic 2___
+
+__*bold 2 and italic 1*__
+
+**_bold 1 and italic 2_**
+
+
+~~*strike italic 1*~~ and *~~strike italic 2~~*
+
+~~_strike italic 2_~~ and  _~~strike italic 2~~_
+
+
+~~**strike bold 1**~~ and **~~strike bold 1~~**
+
+~~__strike bold 2__~~ and __~~strike bold 2~~__
+
+
+~~***strike italic 1 bold 1***~~ and ***~~strike italic 1 bold 1~~***
+
+~~___strike italic 2 bold 2___~~ and ___~~strike italic 2 bold 2~~___
+
+**~~*strike italic 1 bold 1*~~** and *~~**strike italic 1 bold 1**~~*
+
+__~~_strike italic 2 bold 2_~~__ and _~~__strike italic 2 bold 2__~~_
+
+**~~_strike italic 2 bold 1_~~** and _~~**strike italic 2 bold 1**~~_
+
+__~~*strike italic 1 bold 2*~~__ and *~~__strike italic 1 bold 2__~~*
+
+
+## Links
+
+</code></pre>
+
+<p>Web image
+<img src="http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg" alt="Web Picture" title="Web Picture" /></p>
+
+<p>Local image
+<img src="logo-revolunet-carre.jpg" alt="Local Picture" title="Local Picture" /></p>
+
+<p>contact@revolunet.com</p>
+
+<p>@revolunet</p>
+
+<p>Issue #1</p>
+
+<p><a href="https://github.com/revolunet/sublimetext-markdown-preview/" rel="noreferrer" target="_blank">https://github.com/revolunet/sublimetext-markdown-preview/</a></p>
+
+<p>This is a link <a href="https://github.com/revolunet/sublimetext-markdown-preview/" rel="noreferrer" target="_blank">https://github.com/revolunet/sublimetext-markdown-preview/</a>.</p>
+
+<p>This is a link &ldquo;<a href="https://github.com/revolunet/sublimetext-markdown-preview/&quot;" rel="noreferrer" target="_blank">https://github.com/revolunet/sublimetext-markdown-preview/&quot;</a>.</p>
+
+<p>With this link (<a href="https://github.com/revolunet/sublimetext-markdown-preview/" rel="noreferrer" target="_blank">https://github.com/revolunet/sublimetext-markdown-preview/</a>), it still works.</p>
+
+<pre><code>
+Web image
+![Web Picture](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg &quot;Web Picture&quot;)
+
+Local image
+![Local Picture](/apple-touch-icon.png &quot;Local Picture&quot;)
+
+www.google.com
+
+contact@revolunet.com
+
+@revolunet
+
+Issue #1
+
+https://github.com/revolunet/sublimetext-markdown-preview/
+
+This is a link https://github.com/revolunet/sublimetext-markdown-preview/.
+
+This is a link &quot;https://github.com/revolunet/sublimetext-markdown-preview/&quot;.
+
+With this link (https://github.com/revolunet/sublimetext-markdown-preview/), it still works.
+
+## Abbreviation
+
+Abbreviations source are found in a separate markdown file specified in frontmatter.
+</code></pre>
+
+<p>The HTML specification
+is maintained by the W3C.</p>
+
+<p>*[HTML]: Hyper Text Markup Language
+*[W3C]:  World Wide Web Consortium</p>
+
+<pre><code>
+The HTML specification 
+is maintained by the W3C.
+
+## Unordered List
+
+</code></pre>
+
+<p>Unordered List</p>
+
+<ul>
+<li>item 1
+
+<ul>
+<li>item A</li>
+<li>item B
+more text
+
+<ul>
+<li>item a</li>
+<li>item b</li>
+<li>item c</li>
+</ul></li>
+<li>item C</li>
+</ul></li>
+<li>item 2</li>
+
+<li><p>item 3</p>
+
+<pre><code>
+Unordered List
+
+- item 1
+* item A
+* item B
+    more text
+    + item a
+    + item b
+    + item c
+* item C
+- item 2
+- item 3
+
+
+## Ordered List
+
+</code></pre></li>
+</ul>
+
+<p>Ordered List</p>
+
+<ol>
+<li>item 1
+
+<ol>
+<li>item A</li>
+<li>item B
+more text
+
+<ol>
+<li>item a</li>
+<li>item b</li>
+<li>item c</li>
+</ol></li>
+<li>item C</li>
+</ol></li>
+<li>item 2</li>
+
+<li><p>item 3</p>
+
+<pre><code>
+Ordered List
+
+1. item 1
+1. item A
+2. item B
+    more text
+    1. item a
+    2. item b
+    3. item c
+3. item C
+2. item 2
+3. item 3
+
+## Task List
+
+</code></pre></li>
+</ol>
+
+<p>Task List</p>
+
+<ul class="task-list">
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item 1
+
+<ul class="task-list">
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item A</label></li>
+<li><label><input type="checkbox" disabled class="task-list-item"> item B
+more text
+
+<ul class="task-list">
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item a</label></li>
+<li><label><input type="checkbox" disabled class="task-list-item"> item b</label></li>
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item c</label></li>
+</ul></label></li>
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item C</label></li>
+</ul></label></li>
+<li><label><input type="checkbox" disabled class="task-list-item"> item 2</label></li>
+
+<li><p>[ ] item 3</p>
+
+<pre><code>
+Task List
+
+- [X] item 1
+* [X] item A
+* [ ] item B
+    more text
+    + [x] item a
+    + [ ] item b
+    + [x] item c
+* [X] item C
+- [ ] item 2
+- [ ] item 3
+
+## Mixed Lists
+
+`Really Mixed Lists` should break with `sane_lists` on.
+
+</code></pre></li>
+</ul>
+
+<p>Mixed Lists</p>
+
+<ul class="task-list">
+<li>item 1
+
+<ul class="task-list">
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item A</label></li>
+<li><label><input type="checkbox" disabled class="task-list-item"> item B
+more text
+
+<ol>
+<li>item a</li>
+<li>itemb</li>
+<li>item c</li>
+</ol></label></li>
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item C</label></li>
+</ul></li>
+<li>item 2</li>
+<li>item 3</li>
+</ul>
+
+<p>Really Mixed Lists</p>
+
+<ul class="task-list">
+<li>item 1
+
+<ul class="task-list">
+<li><label><input type="checkbox" checked disabled class="task-list-item"> item A</label></li>
+<li>item B
+more text
+
+<ol class="task-list">
+<li>item a</li>
+<li>itemb</li>
+<li><label><input type="checkbox" disabled class="task-list-item"> item c</label></li>
+</ol></li>
+<li>item C</li>
+</ul></li>
+<li>item 2</li>
+
+<li><p>[X] item 3</p>
+
+<pre><code>
+Mixed Lists
+
+- item 1
+* [X] item A
+* [ ] item B
+    more text
+    1. item a
+    2. itemb
+    3. item c
+* [X] item C
+- item 2
+- item 3
+
+
+Really Mixed Lists
+
+- item 1
+* [X] item A
+- item B
+    more text
+    1. item a
+    + itemb
+    + [ ] item c
+3. item C
+2. item 2
+- [X] item 3
+
+
+## Dictionary
+
+</code></pre></li>
+</ul>
+
+<dl>
+<dt>Dictionary</dt>
+<dd><p>item 1</p>
+
+<p>item 2</p>
+
+<p>item 3</p>
+
+<pre><code>
+Dictionary
+:   item 1
+
+item 2
+
+item 3
+
+## Blocks
+
+</code></pre>
+
+<p>This is a block.</p>
+
+<p>This is more of a block.</p>
+
+<pre><code>
+This is a block.
+    
+This is more of a block.
+
+
+## Block Quotes
+
+</code></pre></dd>
+</dl>
+
+<blockquote>
+<p>This is a block quote
+&gt; How does it look?</p>
+
+<pre><code>
+&gt; This is a block quote.
+&gt;&gt; How does it look?
+&gt; I think it looks good.
+
+## Fenced Block
+
+Assuming guessing is not enabled.
+
+`````
+</code></pre>
+
+<p>// Fenced <strong>without</strong> highlighting
+function doIt() {
+    for (var i = 1; i &lt;= slen ; i^^) {
+        setTimeout(&ldquo;document.z.textdisplay.value = newMake()&rdquo;, i<em>300);
+        setTimeout(&ldquo;window.status = newMake()&rdquo;, i</em>300);
+    }
+}</p>
+
+<pre><code>
+</code></pre>
+
+<p>javascript
+// Fenced <strong>with</strong> highlighting
+function doIt() {
+    for (var i = 1; i &lt;= slen ; i^^) {
+        setTimeout(&ldquo;document.z.textdisplay.value = newMake()&rdquo;, i<em>300);
+        setTimeout(&ldquo;window.status = newMake()&rdquo;, i</em>300);
+    }
+}</p>
+
+<pre><code>`````
+
+</code></pre>
+
+<p>// Fenced <strong>without</strong> highlighting
+function doIt() {
+    for (var i = 1; i &lt;= slen ; i^^) {
+        setTimeout(&ldquo;document.z.textdisplay.value = newMake()&rdquo;, i<em>300);
+        setTimeout(&ldquo;window.status = newMake()&rdquo;, i</em>300);
+    }
+}</p>
+
+<pre><code>
+</code></pre>
+
+<p>javascript
+// Fenced <strong>with</strong> highlighting
+function doIt() {
+    for (var i = 1; i &lt;= slen ; i^^) {
+        setTimeout(&ldquo;document.z.textdisplay.value = newMake()&rdquo;, i<em>300);
+        setTimeout(&ldquo;window.status = newMake()&rdquo;, i</em>300);
+    }
+}</p>
+
+<pre><code>
+## Tables
+
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th><em>Colors</em></th>
+<th align="center">Fruits</th>
+<th align="right">Vegetable</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Red</td>
+<td align="center"><em>Apple</em></td>
+<td align="right"><a href="#Tables">Pepper</a></td>
+</tr>
+
+<tr>
+<td><del>Orange</del></td>
+<td align="center">Oranges</td>
+<td align="right"><strong>Carrot</strong></td>
+</tr>
+
+<tr>
+<td>Green</td>
+<td align="center"><del><strong><em>Pears</em></strong></del></td>
+<td align="right">Spinach</td>
+</tr>
+</tbody>
+</table>
+
+<pre><code>
+| _Colors_      | Fruits          | Vegetable    |
+| ------------- |:---------------:| ------------:|
+| Red           | *Apple*         | Pepper       |
+| ~~Orange~~    | Oranges         | **Carrot**   |
+| Green         | ~~***Pears***~~ | Spinach      |
+
+Class or Enum           | Year                                                                                  | Month                                                                                 |                                          Day                                          |                                         Hours                                         |                                        Minutes                                        | Seconds*                                                                              |                                      Zone Offset                                      |                                        Zone ID                                        | toString Output                                    | Where Discussed                                                                                    
+----------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:| ------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------
+`Instant`        |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       | `2013-08-20T15:16:26.355Z`                  | [Instant Class](https://docs.oracle.com/javase/tutorial/datetime/iso/instant.html)                 
+`LocalDate`      | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       | `2013-08-20`                                | [Date Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/date.html)                     
+`LocalDateTime`  | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       | `2013-08-20T08:16:26.937`                   | [Date and Time Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/datetime.html)        
+`ZonedDateTime`  | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | `2013-08-21T00:16:26.941+09:00[Asia/Tokyo]` | [Time Zone and Offset Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/timezones.html)
+`LocalTime`      |                                                                                       |                                                                                       |                                                                                       | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       | `08:16:26.943`                              | [Date and Time Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/datetime.html)        
+`MonthDay`       |                                                                                       | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       | `--08-20`                                   | [Date Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/date.html)                     
+`Year`           | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       | `2013`                                      | [Date Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/date.html)                     
+`YearMonth`      | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       | `2013-08`                                   | [Date Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/date.html)                     
+`Month`          |                                                                                       | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       |                                                                                       | `AUGUST`                                    | [DayOfWeek and Month Enums](https://docs.oracle.com/javase/tutorial/datetime/iso/enum.html)        
+`OffsetDateTime` | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       | `2013-08-20T08:16:26.954-07:00`             | [Time Zone and Offset Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/timezones.html)
+`OffsetTime`     |                                                                                       |                                                                                       |                                                                                       | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       | `08:16:26.957-07:00`                        | [Time Zone and Offset Classes](https://docs.oracle.com/javase/tutorial/datetime/iso/timezones.html)
+`Duration`       |                                                                                       |                                                                                       |                                          \**                                          |                                          \**                                          |                                          \**                                          | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       | `PT20H` (20 hours)                          | [Period and Duration](https://docs.oracle.com/javase/tutorial/datetime/iso/period.html)            
+`Period`         | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; | &lt;center&gt;![checked](/favicon-16x16.png)&lt;/center&gt; |                                                                                       |                                                                                       |                                                                                       |                                         \***                                          |                                         \***                                          | `P10D` (10 days)                            | [Period and Duration](https://docs.oracle.com/javase/tutorial/datetime/iso/period.html)            
+
+## Smart Strong
+
+</code></pre>
+
+<p>Text with double<strong>underscore</strong>words.</p>
+</blockquote>
+
+<p><strong>Strong</strong> still works.</p>
+
+<p><strong>this</strong>works<strong>too</strong></p>
+
+<pre><code>
+Text with double__underscore__words.
+
+__Strong__ still works.
+
+__this__works__too__
+
+## Smarty
+
+</code></pre>
+
+<p>&ldquo;double quotes&rdquo;</p>
+
+<p>&lsquo;single quotes&rsquo;</p>
+
+<p>da&ndash;sh</p>
+
+<p>elipsis&hellip;</p>
+
+<pre><code>
+&quot;double quotes&quot;
+
+'single quotes'
+
+da--sh
+
+elipsis...
+
+## Neseted Fences
+
+````
+    ```
+    This will still be parsed
+    as a normal indented code block.
+    ```
+
+</code></pre>
+
+<p>This will still be parsed
+as a fenced code block.</p>
+
+<pre><code>
+- This is a list that contains multiple code blocks.
+
+    - Here is an indented block
+
+            ```
+            This will still be parsed
+            as a normal indented code block.
+            ```
+
+    - Here is a fenced code block:
+
+        ```
+        This will still be parsed
+        as a fenced code block.
+        ```
+
+        &gt; ```
+        &gt; Blockquotes?
+        &gt; Not a problem!
+        &gt; ```
+````
+
+    ```
+    This will still be parsed
+    as a normal indented code block.
+    ```
+
+</code></pre>
+
+<p>This will still be parsed
+as a fenced code block.</p>
+
+<pre><code>
+- This is a list that contains multiple code blocks.
+
+    - Here is an indented block
+
+            ```
+            This will still be parsed
+            as a normal indented code block.
+            ```
+
+    - Here is a fenced code block:
+
+        ```
+        This will still be parsed
+        as a fenced code block.
+        ```
+
+        &gt; ```
+        &gt; Blockquotes?
+        &gt; Not a problem!
+        &gt; ```
+
+# Others
+
+## Github Emoji {#section-7}
+
+</code></pre>
+
+<p>This is a test for emoji 😄.  The emojis are images linked to github assets :octocat:.</p>
+
+<pre><code>
+This is a test for emoji 😄.  The emojis are images linked to github assets :octocat:.
+
+### People
+
+👍👎👽👼💢😠😧😲👶💙😊💥🙇‍♂️:bowtie:👦👰💔👤👥👏😰💥😖😕👷‍♂️👮‍♂️👫👩‍❤️‍👨👩‍❤️‍💋‍👨😢😿💘💃👯‍♀️💨😞😥💫😵💧👂❗😑👀👊👨‍👩‍👦😨:feelsgood:🐾:finnadie:🔥✊😳😦🖕👧:goberserk::godmode:💚❕❔😬😁😀💂‍♂️💇‍♀️✋💩🙉❤️😍😻💓💗:hurtrealbad:😯👿💁‍♀️😇👺👹😂😹💋😗😽😚😘😙😆👄💌👨👲👳‍♂️😷💆‍♀️🤘💪🎵💅:neckbeard:😐🙅‍♀️😶👃🎶👌🙆‍♀️👴👵👐😮😔😣🙍‍♀️👱‍♂️🙎‍♀️👇👈👉☝️👆💩😾🙏👸👊💜❓😡:rage1::rage2::rage3::rage4:✋🙌🙋‍♀️☺️😌💞🏃‍♂️🏃😆😱🙀🙈💩💀😴😪😄😸😃😺😈😏😼😭✨💖🙊💬⭐🌟😛😝😜😎:suspect:😓💦😅💭👎👍😫👅😤:trollface:💕👬👭😒✌️🚶‍♂️👋😩😉👩😟💛😋💤
+
+### Nature
+
+🐜🐤🐻🐝🪲🐦🌼🐡🐗💐🐛🌵🐫🐱🐈🌸🌰🐔☁️🐮🐄🌙🐊🌀🌳🐶🐕🐬🐉🐲🐪🌾🌍🌎🌏🐘🌲🍂🌓🌛🐟🌁🍀🐸🌕🌝🌐🐐🐹🐥🐣🌿🌺🐝🐴🐨🌗🌜🍃🐆🍁🌌🐒🐵🌔🐭🐁🍄🌑🌚🌃🌊:octocat:🐙🐂🌴🐼⛅🐾🐧🐷🐖🐽🐩🐰🐇🐎🐏🐀🐓🌹🌱🐑🐚🐌🐍❄️☃️:squirrel:🌞🌻☀️🐯🐅🐠🌷🐢☂️🌋🌘🌖🐃🌒🌔🐳🐋🐺⚡
+
+### Objects
+
+🎱⏰🍎🎨👟🍼🎈🎍🍌📊⚾🏀🛀🛁🔋🍺🍻🔔🍱🚴‍♂️👙🎂🃏✒️📘💣📖🔖📑📚👢🎳🍞💼💡🍰📆📲📷🍬📇💿📉📈🍒🍫🎄🎬📋📕🔐🌂♣️🍸☕💻🎊🍪🌽💳👑🔮🍛🍮🍡🎯📅♦️💵🎎🚪🍩👗📀📧🥚🍆🔌✉️✉📩💶👓📠📁🎆🍥🎣🎏🔦🐬💾🎴🏈👣🍴🍤🍟🎲💎👻🎁💝⛳🍇🍏📗🎸🔫🍔🔨👜🎧♥️🔆👠🔪🍯🏇⌛⏳🍨🍦📥📨📱🎃👖🔑👘🏮📒🍋💄🔒🔏🍭➿🔊📢🔅🔍🔎🀄📫📪📬📭👞🍖📣🍈📝🎤🔬💽💸💰🎓🚵‍♂️🎥🎹🎼🔇📛👔📰🔕📓📔🔩🍢📖📂📙📤📦📄📃📟📎🍑🍐✏✏️☎️💊🍍🍕📯📮👝🍗💷👛📌📻🍜🎀🍚🍙🍘🎑💍🏉🎽🍶👡🎅🛰️🎷🎒✂️📜💺🍧👕👞🚿🎿🚬🏂⚽🔉👾♠️🍝❇️🎇🔈🍲📏🍓🏄‍♂️🍣🍠🏊‍♂️💉🎉🎋🍊🍵☎📞🔭🎾🚽🍅🎩📐🏆🍹🎺👕📺🔓📼📹🎮🎻⌚🍉🎐🍷👚👒🔧💴
+
+### Places
+
+🚡✈️🚑⚓🚛🏧🏦💈🔰🚲🚙⛵🌉🚅🚄🚌🚏🚗🎠🏁⛪🎪🌇🌆🇨🇳🚧🏪🎌🇩🇪🏬🇪🇸🏰🏤🏭🎡🚒⛲🇫🇷⛽🇬🇧🚁🏥🏨♨️🏠🏡🇮🇹🏮🗾🏯🇯🇵🇰🇷🚈🏩🚐🚝🗻🚠🚞🗿🏢🚘🚍🚔🚖🎭🚓🏣🚃🌈🚗🚀🎢🚨📍🚣‍♂️🇷🇺⛵🏫🚢🎰🚤🌠🚉🗽🚂🌅🌄🚟🚕⛺🎫🗼🚜🚥🚋🚆🚊🚩🚎🚚🇬🇧🇺🇸🚦⚠️💒
+
+### Symbols
+
+💯🔢🅰️🆎🔤🔡🉑♒♈◀️⏬⏫⬇️🔽▶️⤵️⤴️⬅️↙️↘️➡️↪️⬆️↕️🔼↖️↗️🔃🔄🅱️🚼🔙🛄☑️‼️⚫⬛◾◼️▪️🔲♋🔠♑💹🚸🎦🆑🕐🕙🕥🕚🕦🕛🕧🕜🕑🕝🕒🕞🕓🕟🕔🕠🕕🕡🕖🕢🕗🕣🕘🕤㊗️🆒©️➰💱🛃💠🚯8️⃣✴️✳️🔚⏩5️⃣4️⃣🆓♊#️⃣💟✔️➗💲❗➖✖️➕🆔🉐ℹ️⁉️🔟🈁🔵🔷🔶🛅↔️↩️♌♎🔗ⓜ️🚹🚇📴❎🆕🆖9️⃣🚳⛔🚫📵🚷🚭🚱⭕🅾️🆗🔛1️⃣⛎🅿️〽️🛂♓🚰🚮🔘♻️🔴®️🔁🔂🚻⏪🈂️♐♏㊙️7️⃣:shipit:📶6️⃣🔯🔹🔸🔺🔻🔜🆘🔣♉3️⃣™️🔝🔱🔀2️⃣🈹🈴🈺🈯🈷️🈶🈵🈚🈸🈲🈳🔞🆙📳♍🆚〰️🚾♿✅⚪💮⬜◽◻️▫️🔳🚺❌0️⃣
+
+## Insert
+
+</code></pre>
+
+<p>^^insert^^</p>
+
+<p>^^<em>insert italic</em>^^  <em>^^insert italic 2^^</em></p>
+
+<p>^^<em>insert italic</em>^^  <em>^^insert italic 2^^</em></p>
+
+<p>^^<strong>insert bold</strong>^^  <strong>^^insert bold 2^^</strong></p>
+
+<p>^^<strong>insert bold</strong>^^  <strong>^^insert bold 2^^</strong></p>
+
+<p>^^<strong><em>insert italic bold</em></strong>^^  <strong><em>^^insert italic bold 2^^</em></strong></p>
+
+<p>^^<strong><em>insert italic bold</em></strong>^^  <strong><em>^^insert italic bold 2^^</em></strong></p>
+
+<p><strong>^^<em>insert italic bold</em>^^</strong>  *^^<strong>insert italic bold 2</strong>^^*</p>
+
+<p><strong>^^<em>insert italic bold</em>^^</strong>  _^^<strong>insert italic bold 2</strong>^^_</p>
+
+<p><strong>^^<em>insert italic bold</em>^^</strong>  <em>^^<strong>insert italic bold 2</strong>^^</em></p>
+
+<p><strong>^^<em>insert italic bold</em>^^</strong>  <em>^^<strong>insert italic bold 2</strong>^^</em></p>
+
+<pre><code>
+^^insert^^
+
+^^*insert italic*^^  *^^insert italic 2^^*
+
+^^_insert italic_^^  _^^insert italic 2^^_
+
+^^**insert bold**^^  **^^insert bold 2^^**
+
+^^__insert bold__^^  __^^insert bold 2^^__
+
+^^***insert italic bold***^^  ***^^insert italic bold 2^^***
+
+^^___insert italic bold___^^  ___^^insert italic bold 2^^___
+
+**^^*insert italic bold*^^**  *^^**insert italic bold 2**^^*
+
+__^^_insert italic bold_^^__  _^^__insert italic bold 2__^^_
+
+**^^_insert italic bold_^^**  _^^**insert italic bold 2**^^_
+
+__^^*insert italic bold*^^__  *^^__insert italic bold 2__^^*
+
+## Math
+
+</code></pre>
+
+<p>$$ evidence_{i}=\sum_{j}W_{ij}x_{j}+b_{i} $$</p>
+
+<p>$p(x|y) = \frac{p(y|x)p(x)}{p(y)}$, (p(x|y) = \frac{p(y|x)p(x)}{p(y)}).</p>
+
+<p>$$
+E(\mathbf{v}, \mathbf{h}) = -\sum<em>{i,j}w</em>{ij}v<em>i h</em>j - \sum<em>i b</em>i v<em>i - \sum</em>j c<em>j h</em>j
+$$</p>
+
+<p>\[3 &lt; 4\]</p>
+
+<p>\begin{align}
+    p(v<em>i=1|\mathbf{h}) &amp; = \sigma\left(\sum</em>j w<em>{ij}h</em>j + b<em>i\right) <br />
+    p(h</em>j=1|\mathbf{v}) &amp; = \sigma\left(\sum<em>i w</em>{ij}v<em>i + c</em>j\right)
+\end{align}
+```</p>
+
+<p>$$ evidence_{i}=\sum_{j}W_{ij}x_{j}+b_{i} $$</p>
+
+<p>$p(x|y) = \frac{p(y|x)p(x)}{p(y)}$, (p(x|y) = \frac{p(y|x)p(x)}{p(y)}).</p>
+
+<p>$$ E(\mathbf{v}, \mathbf{h}) = -\sum<em>{i,j}w</em>{ij}v<em>i h</em>j - \sum<em>i b</em>i v<em>i - \sum</em>j c<em>j h</em>j $$</p>
+
+<p>\[3 &lt; 4\]</p>
+
+<p>\begin{align}
+    p(v<em>i=1|\mathbf{h}) &amp; = \sigma\left(\sum</em>j w<em>{ij}h</em>j + b<em>i\right) <br />
+    p(h</em>j=1|\mathbf{v}) &amp; = \sigma\left(\sum<em>i w</em>{ij}v<em>i + c</em>j\right)
+\end{align}</p>
+
+
+<link rel="stylesheet" href="/css/donate.css" />
+
+
+<div class="donate">
+  <div class="donate-header"></div>
+  <div class="donate-slug" id="donate-slug"></div>
+  <button class="donate-button">赞 赏</button>
+  <div class="donate-footer">「真诚赞赏，手留余香」</div>
+</div>
+<div class="donate-modal-wrapper">
+  <div class="donate-modal">
+    <div class="donate-box">
+      <div class="donate-box-content">
+        <div class="donate-box-content-inner">
+          <div class="donate-box-header">「真诚赞赏，手留余香」</div>
+          <div class="donate-box-body">
+            <div class="donate-box-money">
+              <button class="donate-box-money-button donate-box-money-button-unchecked" id="donate-box-money-button-2" data-v="2" data-unchecked="￥ 2" data-checked="2 元">￥ 2</button>
+              <button class="donate-box-money-button donate-box-money-button-unchecked" id="donate-box-money-button-5" data-v="5" data-unchecked="￥ 5" data-checked="5 元">￥ 5</button>
+              <button class="donate-box-money-button donate-box-money-button-unchecked" id="donate-box-money-button-10" data-v="10" data-unchecked="￥ 10" data-checked="10 元">￥ 10</button>
+              <button class="donate-box-money-button donate-box-money-button-unchecked" id="donate-box-money-button-50" data-v="50" data-unchecked="￥ 50" data-checked="50 元">￥ 50</button>
+              <button class="donate-box-money-button donate-box-money-button-unchecked" id="donate-box-money-button-100" data-v="100" data-unchecked="￥ 100" data-checked="100 元">￥ 100</button>
+              <button class="donate-box-money-button donate-box-money-button-unchecked" id="donate-box-money-button-custom" data-v="custom" data-unchecked="任意金额" data-checked="任意金额">任意金额</button>
+            </div>
+            <div class="donate-box-pay">
+              <img class="donate-box-pay-qrcode" id="donate-box-pay-qrcode" src=""/>
+            </div>
+          </div>
+          <div class="donate-box-footer">
+            <div class="donate-box-pay-method donate-box-pay-method-checked" data-v="wechat-pay">
+              <img class="donate-box-pay-method-image" id="donate-box-pay-method-image-wechat-pay" src=""/>
+            </div>
+            <div class="donate-box-pay-method" data-v="alipay">
+              <img class="donate-box-pay-method-image"  id="donate-box-pay-method-image-alipay" src=""/>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="donate-box-close-button">
+      <svg class="donate-box-close-button-icon" fill="#fff" viewBox="0 0 24 24" width="24" height="24"><path d="M13.486 12l5.208-5.207a1.048 1.048 0 0 0-.006-1.483 1.046 1.046 0 0 0-1.482-.005L12 10.514 6.793 5.305a1.048 1.048 0 0 0-1.483.005 1.046 1.046 0 0 0-.005 1.483L10.514 12l-5.208 5.207a1.048 1.048 0 0 0 .006 1.483 1.046 1.046 0 0 0 1.482.005L12 13.486l5.207 5.208a1.048 1.048 0 0 0 1.483-.006 1.046 1.046 0 0 0 .005-1.482L13.486 12z" fill-rule="evenodd"></path></svg>
+    </button>
+  </div>
+</div>
+
+<script type="text/javascript" src="/js/donate.js"></script>
+</script>
+
+
+  <footer>
+  
+<nav class="post-nav">
+  <span class="nav-prev">&larr; <a href="/cn/2021/10/%E5%A6%82%E4%BD%95%E6%90%9E%E5%AE%9A%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/">如何搞定学术写作（持续更新中）</a></span>
+  <span class="nav-next"><a href="/cn/2019/07/ielts-note-1-writing/">IELTS-NOTE (1) Writing</a> &rarr;</span>
+</nav>
+<script type="text/javascrisstoppt">
+document.addEventListener('keyup', function(e) {
+  if (e.target.nodeName.toUpperCase() != 'BODY') return;
+  var url = false;
+  if (e.which == 37) {  // Left arrow
+    
+    url = '/cn/2021/10/%E5%A6%82%E4%BD%95%E6%90%9E%E5%AE%9A%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/';
+    
+  } else if (e.which == 39) {  // Right arrow
+    
+    url = '/cn/2019/07/ielts-note-1-writing/';
+    
+  }
+  if (url) window.location = url;
+});
+</script>
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2608165017777396"
+     data-ad-slot="1261604535"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+<section class="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+    this.page.url = "https:\/\/zeqiang.fun" + location.pathname;
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//zeqiang.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    var t = d.getElementById('disqus_thread');
+    var b = false, l = function(scroll) {
+      if (b) return;
+      (d.head || d.body).appendChild(s); b = true;
+      if (scroll) t.scrollIntoView();
+    }
+    s.onerror = function(e) {
+      if (sessionStorage.getItem('failure-note')) return;
+      t.innerText = 'Sorry, but you cannot make comments because Disqus failed to load for some reason. It is known to be blocked in China. If you are sure it is not blocked in your region, please refresh the page. 中国大陆地区读者需要翻墙才能发表评论。';
+      sessionStorage.setItem('failure-note', true);
+    };
+    
+    if (location.hash.match(/^#comment-[0-9]+$/)) return l(true);
+    var c = function() {
+      if (b) return;
+      var rect = t.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) l();
+    };
+    window.addEventListener('load', c);
+    d.addEventListener('scroll', c);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
+
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/show-language/prism-show-language.min.js"></script>
+
+<script>
+    (function() {
+        if (!self.Prism) {
+            return;
+        }
+
+        Prism.languages.dos = Prism.languages.powershell;
+        Prism.languages.gremlin = Prism.languages.groovy;
+
+        var Languages = {
+            'r': 'R', 'python': 'Python', 'xml': 'XML', 'html': 'HTML',
+            'yaml': 'YAML', 'latex': 'LaTeX', 'tex': 'TeX',
+            'powershell': 'PowerShell', 'javascript': 'JavaScript',
+            'dos': 'DOS', 'qml': 'QML', 'json': 'JSON', 'bash': 'Bash',
+            'text': 'Text', 'txt': 'Text', 'sparql': 'SPARQL',
+            'gremlin': 'Gremlin', 'cypher': 'Cypher', 'ngql': 'nGQL',
+            'shell': 'Shell', 'sql': 'SQL', 'apacheconf': 'Apache Configuration'
+        };
+
+        Prism.hooks.add('before-highlight', function(env) {
+        	var language = Languages[env.language] || env.language;
+        	env.element.setAttribute('data-language', language);
+        });
+    })();
+</script>
+
+
+
+
+<script async src="/js/fix-toc.js"></script>
+<script async src="/js/center-img.js"></script>
+<script async src="/js/right-quote.js"></script>
+<script async src="/js/fix-footnote.js"></script>
+<script async src="/js/external-link.js"></script>
+<script async src="/js/alt-title.js"></script>
+<script src="/js/no-highlight.js"></script>
+<script src="/js/math-code.js"></script>
+
+
+<script>
+window.MathJax = {
+  loader: {
+    load: ['[tex]/boldsymbol']
+  },
+  tex: {
+    tags: "all",
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    packages: {
+      '[+]': ['boldsymbol']
+    }
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-chtml.js" crossorigin></script>
+
+
+
+
+
+
+
+<script async src="/js/load-typekit.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/vanilla-back-to-top@latest/dist/vanilla-back-to-top.min.js"></script>
+<script>
+addBackToTop({
+  diameter: 48
+})
+</script>
+
+
+
+  <hr>
+  <div class="copyright no-border-bottom">
+    <div class="copyright-author-year">
+      <span>&copy; 2019-2022 Zeqiang Fang</span>
+    </div>
+    <div class="copyright-links">
+      <a href="https://github.com/fang-zeqiang" rel="noreferrer" target="_blank">Github</a>
+      <span> · </span>
+      <a href="https://orcid.org/0000-0002-9556-7821" rel="noreferrer" target="_blank">ORCID</a>
+      <span> · </span>
+      <span>I am Franklin</span>
+    </div>
+  </div>
+  </footer>
+  </article>
+  </body>
+</html>
+
