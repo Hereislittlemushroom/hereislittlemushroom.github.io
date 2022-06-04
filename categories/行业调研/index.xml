@@ -9,7 +9,7 @@
     <atom:link href="https://zeqiang.fun/categories/%E8%A1%8C%E4%B8%9A%E8%B0%83%E7%A0%94/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Web3</title>
+      <title>Web3漫游指南</title>
       <link>https://zeqiang.fun/cn/2022/06/work-learn-n-wealth/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -18,7 +18,7 @@
         <![CDATA[
         
 
-<h1 id="如何了解web3">如何了解WEB3</h1>
+<h1 id="1-如何了解web3">1 如何了解WEB3</h1>
 
 <h2 id="知识来源">知识来源</h2>
 
@@ -40,12 +40,22 @@
 <li>@Luyun(写出《web3探索指南》的女性博主)；</li>
 <li>@Vitalik.eth(以太坊创始人)</li>
 <li>@guoyu.eth(字节跳动财务自由退休的程序员)；</li>
-<li>@VicodinXYZ(张潇雨，《得意忘形》主播</li>
+<li>@VicodinXYZ(张潇雨，《得意忘形》主播)
+<br /></li>
 </ul></li>
 </ul></li>
 </ul>
 
-<h1 id="逐梦币圈背景">逐梦币圈背景</h1>
+<h2 id="知识点">知识点</h2>
+
+<ul>
+<li>DYOR 自己做研究很重要</li>
+<li>WED3 包括读、写和拥有</li>
+<li>WEB3 许多知识是以英文形式呈现，可以使用<a href="https://www.deepl.com/translator" rel="noreferrer" target="_blank">DeepL</a>进行翻译</li>
+<li>以太坊的出现，让Smart Contract, Token, DApp都相继爆火</li>
+</ul>
+
+<h1 id="2-逐梦币圈背景">2 逐梦币圈背景</h1>
 
 <p>与人面对面的交流是同步的信息交换，而观看长视频的内容则是单向的异步信息摄取，通过评论，点赞等内容反馈机制可以反向给予信息赠予。</p>
 
@@ -59,7 +69,7 @@
 <li><p><a href="https://note.youdao.com/ynoteshare1/index.html?id=3accb0200139142615e1c0841e945010&amp;type=note#/" rel="noreferrer" target="_blank">DeFi—现实世界金融秩序的去中心化重构</a></p></li>
 </ul>
 
-<h2 id="知识点">知识点</h2>
+<h2 id="知识点-1">知识点</h2>
 
 <p>关于这方面领域的知识会持续更新，这里先以bullet point的形式做一个离散信息的收集</p>
 
