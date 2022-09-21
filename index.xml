@@ -9,130 +9,87 @@
     <atom:link href="https://zeqiang.fun/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>简历</title>
-      <link>https://zeqiang.fun/cn/resume/</link>
+      <title>友情链接</title>
+      <link>https://zeqiang.fun/cn/friendlink/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeqiang.fun/cn/resume/</guid>
+      <guid>https://zeqiang.fun/cn/friendlink/</guid>
       <description>
         <![CDATA[
         
 
-<h1 id="方泽强">方泽强</h1>
-
-<h2 id="联系方式">联系方式</h2>
-
-<p>Email: zeqiang.fang@foxmail.com; 个人主页: zeqiang.fun; 现居福建厦门 ; 英文简历</p>
-
-<h2 id="教育经历">教育经历</h2>
+<h1 id="大学同窗">大学同窗</h1>
 
 <ul>
-<li><p>2020-2021 伦敦大学学院 /CASA高级空间分析中心 /空间数据科学与可视化</p></li>
-
-<li><p>2016-2020 南京财经大学 /信息工程学院 /软件工程</p></li>
-
-<li><p>2017-2020 南京财经大学 /金融学院 /金融学</p></li>
-
-<li><p>2018-2018 加州大学伯克利分校 /Haas哈斯商学院 /投资学</p></li>
+<li><a href="https://www.delaunay.cn/" rel="noreferrer" target="_blank">不羁之欢</a> #老Java</li>
+<li><a href="http://hhizz.cn/" rel="noreferrer" target="_blank">托马斯的奇妙屋</a> #前端大佬 #移动端</li>
+<li>奚宇星</li>
+<li><a href="https://blog.csdn.net/chao_ji_cai" rel="noreferrer" target="_blank">赵晓雪</a> #Java</li>
+<li><a href="http://na2rian.com/" rel="noreferrer" target="_blank">刘永杰</a></li>
+<li><a href="https://ouyuo.github.io/" rel="noreferrer" target="_blank">孙卓</a></li>
+<li><a href="https://shadoowz97.github.io/" rel="noreferrer" target="_blank">张影</a> #信息学</li>
 </ul>
 
-<h2 id="研究兴趣">研究兴趣</h2>
+<h1 id="硕士同窗">硕士同窗</h1>
 
 <ul>
-<li><p>时空数据挖掘方向</p></li>
-
-<li><p>数据可视化方向</p></li>
-
-<li><p>区块链智能合约安全性能验证</p></li>
+<li>周正梓 #城市分析 #UCL</li>
+<li><a href="https://www.introspector.ink/" rel="noreferrer" target="_blank">杨家烨</a> #慕尼黑工业TUM</li>
+<li><a href="https://maxnathan.medium.com/" rel="noreferrer" target="_blank">Max Nathan</a> #Geo #Economics #Master Supervisor</li>
 </ul>
 
-<h2 id="实习经历">实习经历</h2>
-
-<p><strong>20.11-21.03</strong> <strong>网易有道信息技术（北京）有限公司</strong> <em>数据运营岗</em></p>
+<h1 id="大佬捕捉器">大佬捕捉器</h1>
 
 <ul>
-<li><p>共计生产10个周度，3个月度数据分析报表生成以及数据可视化呈现</p></li>
-
-<li><p>销售数据中台业务梳理，跟进包括营销玩法，渠道审核，激活指标等系统业务需求</p></li>
-
-<li><p>智能硬件市场秩序维护运营，总结周度季度渠道商返利等指标</p></li>
-
-<li><p>根据PDD爬虫数据进行数据预处理</p></li>
-
-<li><p>跟进英语教材产品开发，完成2本课本中共计140多个教材音频切分处理与字幕校对，帮助产品组与词典笔入校业务达成重大进展</p></li>
+<li><a href="https://yihui.org/" rel="noreferrer" target="_blank">Xieyi Hui</a> #统计 #UseR</li>
+<li><a href="https://yufree.cn/" rel="noreferrer" target="_blank">于淼</a> #数据科学</li>
+<li><a href="https://alili.tech/" rel="noreferrer" target="_blank">Alili</a> #前端</li>
+<li><a href="http://flowingdata.com/" rel="noreferrer" target="_blank">Nathan Yau</a> #可视化</li>
+<li><a href="https://johnnydaszhu.wixsite.com/home" rel="noreferrer" target="_blank">麒桦的摄影志</a> #摄影</li>
+<li><a href="http://www.pengzhihui.xyz/" rel="noreferrer" target="_blank">稚晖君</a> #AI架构师</li>
+<li><a href="http://simingchen.me/" rel="noreferrer" target="_blank">陈思明</a> #数据可视化 #复旦教授</li>
+<li><a href="https://workbyparra.com/about" rel="noreferrer" target="_blank">Parra</a> #艺术家</li>
 </ul>
 
-<p><strong>19.07-19.09</strong> <strong>南京晟道科技有限公司</strong> <em>数据分析岗</em></p>
+<h1 id="个人网站">个人网站</h1>
 
 <ul>
-<li><p>标注1万余条企业金融舆情数据，每天超额完成100条数据</p></li>
-
-<li><p>承接苏宁AI文案项目，两天处理7500条文本数据，帮助公司达成重要合作</p></li>
+<li><a href="https://zeqiang.fun/Digital-Viz-City-Transformations/Website/" rel="noreferrer" target="_blank">骑行在多伦多</a> #Group mini project</li>
+<li><a href="https://zeqiang.fun/London_EV_charging_infrastrcture_spatial_analysis/book/index.html" rel="noreferrer" target="_blank">伦敦充电桩空间分析</a> #R #bookdown #Rmarkdown</li>
+<li><a href="https://github.com/fang-zeqiang/CASA0013_Final_Assessment/blob/main/Assessment%233_Data-Led_Executive_Briefing.md" rel="noreferrer" target="_blank">Airbnb疫情前后指标分析</a> #Python #Analytics</li>
+<li><a href="https://zeqiang.fun/Project_Abeona/demoSite/index.html" rel="noreferrer" target="_blank">如何预防事故：英国交通事故研究可视化</a> #JavaScript #Node.js</li>
+<li><a href="https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/" rel="noreferrer" target="_blank">2013年亚马逊服务器受攻击者信息可视化</a> #Mapbox #JavaScript</li>
+<li><a href="https://github.com/fang-zeqiang/CASA0006_DSSS/blob/main/Toronto-Bike-Theft-Cluster.ipynb" rel="noreferrer" target="_blank">多伦多自行车盗窃特征分析</a> #Python #Data Science</li>
+<li><a href="https://zeqiang.fun/CLMAP/" rel="noreferrer" target="_blank">KCL骇客马拉松</a> #R #ECharts</li>
+<li><a href="https://zeqiang.fun/CASA0012-Dissertation/html/" rel="noreferrer" target="_blank">CASA毕业设计</a> #DB-SCAN</li>
+<li><a href="https://www.aicareer.info/" rel="noreferrer" target="_blank">面向STEM的AI职业规划平台</a></li>
+<li><a href="https://aicareer.coding.net/" rel="noreferrer" target="_blank">团队毕业设计开发平台</a></li>
+<li><a href="https://dev.tencent.com/u/cupcake/" rel="noreferrer" target="_blank">腾讯开发者平台（原Coding）</a></li>
 </ul>
 
-<p><strong>18.12-19.02</strong> <strong>厦门建发集团有限公司</strong> <em>产品开发岗</em></p>
+<h1 id="awesome-data-visualization">Awesome Data Visualization</h1>
 
 <ul>
-<li><p>一天内完成8份面向客户的PPT（服装智能工厂），帮助团队签订两大重要项目</p></li>
-
-<li><p>使用Axure RP设计5个交互页面（点价交易APP），加快移动端软件上线速度</p></li>
+<li><a href="https://flowingdata.com/2015/01/20/how-americans-get-to-work" rel="noreferrer" target="_blank">flowing data</a></li>
+<li><a href="https://casa-ucl.github.io/casa0003_group15.github.io/" rel="noreferrer" target="_blank">How life has changed after COVID-19 pandemic</a></li>
 </ul>
 
-<h2 id="项目实践">项目实践</h2>
+<p>注意：如果无法访问以上网站请将https改为http访问</p>
 
-<p><strong>2020.11-2021.01 伦敦新能源汽车充电桩空间密度分析</strong></p>
+<h1 id="内容管理系统范例">内容管理系统范例</h1>
 
 <ul>
-<li><p>数据预处理: 完成近12000个数据记录中，使用R语言工具包对应伦敦行政32个区域邮编自动标注，筛选出2019年到2020年的共1058个有效数据记录</p></li>
-
-<li><p>地图制作：使用R的tmap工具完成2020年与2019年的伦敦地区的按行政区域的空间密度分析，按颜色深浅区分密度大小，输出两个有对比意义的二维地图。</p></li>
-
-<li><p>空间计量：使用全局莫兰指数和局部莫兰指数研究伦敦充电桩密度的空间自相关，先绘制空间权重可视化地图，最后使用leaflet输出按32个行政区域的局部莫兰指数可视化交互地图并使用自相关指标Gi-score进行空间相关性评估</p></li>
+<li><a href="http://acm.njfu.edu.cn/" rel="noreferrer" target="_blank">南林竞赛平台</a></li>
+<li><a href="http://cosx.org/" rel="noreferrer" target="_blank">统计之都</a></li>
 </ul>
 
-<p><strong>2019 面向STEM的职业规划平台</strong></p>
+<h1 id="人工智能demo">人工智能Demo</h1>
 
-<p>拟省级优秀毕业设计；平台流量监控数据分析后台开发；职业规划推荐程序设计；平台产品需求分析</p>
-
-<p><strong>2019 基于文本挖掘分析公司招聘信息</strong></p>
-
-<p>基于Python的4个属性的词频统计；5种数据可视化方案呈现；3个维度聚类分析；地理热点图编程绘制</p>
-
-<p><strong>2019 基于Python数据呈现工具开发</strong></p>
-
-<p>基于Qt图形界面开发；Python后端实现嵌入Echarts</p>
-
-<p><strong>2018 网红店运营模式白皮书</strong></p>
-
-<p>Python爬虫3千条数据；Weka机器学习实现4个维度聚类</p>
-
-<p><strong>2018 “格林童话”护肤产品开发方案</strong></p>
-
-<p>获全国二等奖及一万元奖学金，主办方为Amore Pacifics</p>
-
-<p><strong>2018 Annalys年报分析报告(海外商学院项目)</strong></p>
-
-<p>SPSS数据呈现；JavaScript数据抓取；经学院考核满分通过</p>
-
-<p><strong>2019 区块链智能合约的安全性验证</strong></p>
-
-<p>智能合约Solidity代码实现；6个合约UML业务建模；获得江苏省级立项与10000元人民币赞助</p>
-
-<h2 id="技术栈">技术栈</h2>
-
-<p>Office 精通</p>
-
-<p>Python 熟练</p>
-
-<p>Axure RP 熟练</p>
-
-<p>SQL 熟练</p>
-
-<p>Linux 熟练</p>
-
-<p>C#.NET 普通</p>
-
-<p>J2EE 普通</p>
+<ul>
+<li><a href="https://openai.com/blog/emergent-tool-use/" rel="noreferrer" target="_blank">捉迷藏</a> #多智体 #强化学习</li>
+<li><a href="https://openai.com/blog/neural-mmo/" rel="noreferrer" target="_blank">沙盘模拟</a> #多智体 #PyTorch #Linux</li>
+<li><a href="https://magi.com/" rel="noreferrer" target="_blank">magi</a> #实体抽取</li>
+</ul>
 
         ]]>
       </description>
@@ -462,7 +419,7 @@
 
 <h1 id="我是谁">我是谁？</h1>
 
-<p>一个妄想读博的新人硕士毕业生，不高但长相周正，比王力宏鼻子大，没有林更新高，脸比彭于晏尖……正经介绍请参见<a href="https://zeqiang.fun/cv/" rel="noreferrer" target="_blank">我的简历</a>。</p>
+<p>一个妄想读博的新人硕士毕业生，不高但长相周正，比王力宏鼻子大，没有林更新高，脸比彭于晏尖……正经介绍请参见<a href="https://zeqiang.fun/cn/resume/" rel="noreferrer" target="_blank">我的简历</a>。</p>
 
 <p><picture>
   <source media="(min-width: 1200px)" srcset="/images/me/about-large.jpg">
