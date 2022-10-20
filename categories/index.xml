@@ -9,6 +9,19 @@
     <atom:link href="https://zeqiang.fun/categories/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>reviews</title>
+      <link>https://zeqiang.fun/categories/reviews/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeqiang.fun/categories/reviews/</guid>
+      <description>
+        <![CDATA[
+        
+        ]]>
+      </description>
+    </item>
+    
+    <item>
       <title>知识聚合</title>
       <link>https://zeqiang.fun/categories/%E7%9F%A5%E8%AF%86%E8%81%9A%E5%90%88/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
